@@ -1,7 +1,10 @@
 # TorIpCahnger
-Connect to the Tor network first, then run! 
+Connect to the Tor network first, then run!
+cd TorIpCahnger
+python IpChanger.py
+____________
 Requirements
 Python
 Tor
+____________
 Stop Ctrl + c
-
